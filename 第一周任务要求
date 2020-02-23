@@ -1,0 +1,27 @@
+第一周学习任务
+(1)	了解H5开发APP的相关知识
+(2)	开发过程中所需工具的准备
+前端工具：HBuilderX的安装与配置
+UI设计工具：Axure+PhotoShop
+后台准备：sqlserver
+(3)	协作平台的使用
+熟练了解GitHub在线平台的使用规则
+
+具体要求：
+了解H5开发APP的优缺点
+了解H5开发APP的整体步骤
+结合HX官网，了解HBuilderX软件的具体功能和优点
+HBuilderX连接GitHub,实现项目的上传与更新
+HBuilderX的各种功能插件安装（按需求）
+下载Axure这款UI设计软件，熟练使用元件库（PhotoShop不做要求）
+准备好sqlserver,配置好数据库，要保证能够正常登录数据库账户
+
+
+参考资料：
+
+HX连接GIT
+https://blog.csdn.net/AdminGuan/article/details/100660347
+
+Axure元件组
+链接：https://pan.baidu.com/s/1jd_O_L4LSyR3DjXXdhThHQ 
+提取码：e7wy
